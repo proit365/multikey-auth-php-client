@@ -67,7 +67,7 @@ compromise allows client impersonation.
 
 ## Validation status
 
-The published v1.0.2 client completed a live challenge-response request against
+The historically published v1.0.2 client completed a live challenge-response request against
 the Laravel test server and received HTTP 200. This loopback integration test
 does not validate a production HTTPS deployment.
 
